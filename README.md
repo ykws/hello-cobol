@@ -1,7 +1,7 @@
 # Hello, COBOL
 
 [![macOS](https://img.shields.io/badge/macOS-Sonoma-black)](https://developer.apple.com/macos/sonoma/)
-[![cobol](https://img.shields.io/badge/cobol-v3.2-black)](https://docs.scala-lang.org/scala3/new-in-scala3.html)
+[![cobol](https://img.shields.io/badge/cobol-v3.2-black)](https://gnucobol.sourceforge.io/)
 
 ## Installation
 
